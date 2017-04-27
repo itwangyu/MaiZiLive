@@ -1,4 +1,4 @@
-package com.maizi.maizilive.work.room;
+package com.maizi.maizilive.ui.room;
 
 import com.maizi.maizilive.mvp.BasePresenter;
 import com.maizi.maizilive.mvp.BaseView;

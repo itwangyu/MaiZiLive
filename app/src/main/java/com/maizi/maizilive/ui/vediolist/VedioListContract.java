@@ -1,4 +1,4 @@
-package com.maizi.maizilive.work.vediolist;
+package com.maizi.maizilive.ui.vediolist;
 
 import com.maizi.maizilive.bean.PDRoom;
 import com.maizi.maizilive.mvp.BasePresenter;

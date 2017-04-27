@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
 
-import com.maizi.maizilive.work.vediolist.VedioListActivity;
+import com.maizi.maizilive.ui.vediolist.VedioListActivity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

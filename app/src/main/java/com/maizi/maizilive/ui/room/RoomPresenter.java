@@ -1,4 +1,4 @@
-package com.maizi.maizilive.work.room;
+package com.maizi.maizilive.ui.room;
 
 import com.maizi.maizilive.bean.RoomInfoEntity;
 import com.maizi.maizilive.mvp.BasePresenterImpl;

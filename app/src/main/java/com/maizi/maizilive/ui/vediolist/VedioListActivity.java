@@ -1,4 +1,4 @@
-package com.maizi.maizilive.work.vediolist;
+package com.maizi.maizilive.ui.vediolist;
 
 
 import android.content.Intent;
@@ -9,7 +9,7 @@ import com.maizi.maizilive.R;
 import com.maizi.maizilive.adapter.VideoListAdapter;
 import com.maizi.maizilive.bean.PDRoom;
 import com.maizi.maizilive.mvp.MVPBaseActivity;
-import com.maizi.maizilive.work.room.RoomActivity;
+import com.maizi.maizilive.ui.room.RoomActivity;
 
 import java.util.List;
 
